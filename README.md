@@ -1,4 +1,6 @@
 # This section has tutedude assignments
+Note: Source code can be found under Calculator\venv\Src folder once you extract Calculator.zip file.
+
 ASSIGNMENT 1: 
 Module 10 & 11: CALCULATOR USING TKINTER
 
